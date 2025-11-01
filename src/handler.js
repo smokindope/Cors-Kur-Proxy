@@ -211,7 +211,7 @@ function getRequestHandler(proxy, options) {
     // Check if the URL is valid
     if (!location) {
       res.writeHead(400, withCORS({ 'Content-Type': 'text/plain' }, req))
-      res.end('tfms.xyz Says: Provide a valid url.')
+      res.end('tfms.xyz Says: Provide a valid url. EG: https://z4dgg6-8080.csb.app/http://YOUR.URL.GOES.HERE.m3u8')
       return
     }
 
