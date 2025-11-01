@@ -4,17 +4,17 @@
   "description": "CORS Proxy is a NodeJS reverse proxy server which adds CORS headers to the proxied request.",
   "license": "MIT",
   "author": {
-    "name": "Kurbanali Ruslan",
-    "email": "ruslan@kurr.dev",
-    "url": "https://github.com/kurrx"
+    "name": "MarkMCFC",
+    "email": "admin@tfms.xyz",
+    "url": "https://github.com/smokindope/Cors-Kur-Proxy"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kurrx/cors-proxy.git"
+    "url": "https://github.com/smokindope/Cors-Kur-Proxy.git"
   },
   "bugs": {
-    "url": "https://github.com/kurrx/cors-proxy/issues/",
-    "email": "ruslan@kurr.dev"
+    "url": "",
+    "email": "admin@tfms.xyz"
   },
   "keywords": [
     "cors",
